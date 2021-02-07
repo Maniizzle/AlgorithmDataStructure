@@ -1,0 +1,11 @@
+C:\Users\OLAMIDE ONAKOYA\Desktop\AlgoAndDataStructure\bin\Debug\netcoreapp3.1\AlgoAndDataStructure.exe
+C:\Users\OLAMIDE ONAKOYA\Desktop\AlgoAndDataStructure\bin\Debug\netcoreapp3.1\AlgoAndDataStructure.deps.json
+C:\Users\OLAMIDE ONAKOYA\Desktop\AlgoAndDataStructure\bin\Debug\netcoreapp3.1\AlgoAndDataStructure.runtimeconfig.json
+C:\Users\OLAMIDE ONAKOYA\Desktop\AlgoAndDataStructure\bin\Debug\netcoreapp3.1\AlgoAndDataStructure.runtimeconfig.dev.json
+C:\Users\OLAMIDE ONAKOYA\Desktop\AlgoAndDataStructure\bin\Debug\netcoreapp3.1\AlgoAndDataStructure.dll
+C:\Users\OLAMIDE ONAKOYA\Desktop\AlgoAndDataStructure\bin\Debug\netcoreapp3.1\AlgoAndDataStructure.pdb
+C:\Users\OLAMIDE ONAKOYA\Desktop\AlgoAndDataStructure\obj\Debug\netcoreapp3.1\AlgoAndDataStructure.csprojAssemblyReference.cache
+C:\Users\OLAMIDE ONAKOYA\Desktop\AlgoAndDataStructure\obj\Debug\netcoreapp3.1\AlgoAndDataStructure.AssemblyInfoInputs.cache
+C:\Users\OLAMIDE ONAKOYA\Desktop\AlgoAndDataStructure\obj\Debug\netcoreapp3.1\AlgoAndDataStructure.AssemblyInfo.cs
+C:\Users\OLAMIDE ONAKOYA\Desktop\AlgoAndDataStructure\obj\Debug\netcoreapp3.1\AlgoAndDataStructure.dll
+C:\Users\OLAMIDE ONAKOYA\Desktop\AlgoAndDataStructure\obj\Debug\netcoreapp3.1\AlgoAndDataStructure.pdb

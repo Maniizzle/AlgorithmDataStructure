@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OLAMIDE ONAKOYA\\Desktop\\AlgoAndDataStructure\\AlgoAndDataStructure.csproj": {}
+    "C:\\Users\\olamide.onakoya\\Desktop\\AlgoAndDataStructure\\AlgoAndDataStructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OLAMIDE ONAKOYA\\Desktop\\AlgoAndDataStructure\\AlgoAndDataStructure.csproj": {
+    "C:\\Users\\olamide.onakoya\\Desktop\\AlgoAndDataStructure\\AlgoAndDataStructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OLAMIDE ONAKOYA\\Desktop\\AlgoAndDataStructure\\AlgoAndDataStructure.csproj",
+        "projectUniqueName": "C:\\Users\\olamide.onakoya\\Desktop\\AlgoAndDataStructure\\AlgoAndDataStructure.csproj",
         "projectName": "AlgoAndDataStructure",
-        "projectPath": "C:\\Users\\OLAMIDE ONAKOYA\\Desktop\\AlgoAndDataStructure\\AlgoAndDataStructure.csproj",
-        "packagesPath": "C:\\Users\\OLAMIDE ONAKOYA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OLAMIDE ONAKOYA\\Desktop\\AlgoAndDataStructure\\obj\\",
+        "projectPath": "C:\\Users\\olamide.onakoya\\Desktop\\AlgoAndDataStructure\\AlgoAndDataStructure.csproj",
+        "packagesPath": "C:\\Users\\olamide.onakoya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\olamide.onakoya\\Desktop\\AlgoAndDataStructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\OLAMIDE ONAKOYA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\olamide.onakoya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -29,6 +31,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +43,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
